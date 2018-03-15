@@ -1,2 +1,2 @@
-!notepad H:\Project\Hand Gesture Recognition\readMe.txt
+!notepad H:\Project\Hand Gesture Recognition\instructions.txt
 % insert the path of readme file
